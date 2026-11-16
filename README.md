@@ -1,17 +1,17 @@
-# 📩 Email/SMS Spam Classifier
+# Email/SMS Spam Classifier
 
 A Machine Learning-based Email/SMS Spam Classifier built using **Python, Natural Language Processing (NLP), TF-IDF Vectorization, and Streamlit**. This project predicts whether a given text message is Spam or Not Spam using a trained machine learning model.
 
-## 🚀 Project Overview
+## Project Overview
 
 The Email/SMS Spam Classifier analyzes the text entered by the user and classifies it into one of two categories:
 
-- 🔴 **Spam:** Identifies unwanted or potentially fraudulent messages.
-- 🟢 **Not Spam:** Identifies legitimate messages.
+- **Spam:** Identifies unwanted or potentially fraudulent messages.
+- **Not Spam:** Identifies legitimate messages.
 
 The application features an interactive Streamlit interface with a modern design and real-time predictions.
 
-## ✨ Features
+## Features
 
 - Email and SMS spam detection.
 - Text preprocessing using NLP techniques.
@@ -22,7 +22,7 @@ The application features an interactive Streamlit interface with a modern design
 - Interactive Streamlit web interface.
 - Custom background and visual styling.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -34,7 +34,7 @@ The application features an interactive Streamlit interface with a modern design
 | Streamlit | Web application development |
 | HTML & CSS | User interface styling |
 
-## 🧠 NLP Workflow
+## NLP Workflow
 
 The project follows these text preprocessing steps:
 
@@ -46,7 +46,7 @@ The project follows these text preprocessing steps:
 6. **TF-IDF Vectorization:** Converts processed text into numerical features.
 7. **Prediction:** The trained machine learning model classifies the message as Spam or Not Spam.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 Email-SMS-Spam-Classifier/
@@ -60,7 +60,7 @@ Email-SMS-Spam-Classifier/
 └── .gitignore
 ```
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -71,7 +71,7 @@ Through this project, I gained practical experience in:
 - Building interactive applications using Streamlit.
 - Deploying Python applications.
 
-## 👩‍💻 Author
+## Author
 
 **Sadaf**
 
@@ -81,4 +81,4 @@ GitHub: [Sadaf0011](https://github.com/Sadaf0011)
 
 ---
 
-⭐ If you find this project useful, consider giving it a star!
+If you find this project useful, consider giving it a star!
